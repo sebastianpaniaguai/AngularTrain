@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'app';
   nombre = "Sebastián";
   apellido = "Paniagua";
+  image = "www.google.com";
 }
